@@ -1,0 +1,23 @@
+
+ 
+        body {
+            background-color: #007bff; /* Latar belakang biru */
+            color: white; /* Teks berwarna putih */
+        }
+        .container {
+            max-width: 600px; /* Membatasi lebar container */
+            margin-top: 50px;
+        }
+        .qr-code {
+            max-width: 100%; /* Agar gambar QR responsif */
+            margin-bottom: 20px;
+        }
+        .btn-primary {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            color: white;
+        }
